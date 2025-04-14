@@ -7,7 +7,7 @@ _HackIndia Spark 6 – 2025 | Team: Enroll-X
 
 ---
 
-## 🚀 Overview
+## Overview
 
 FactChain empowers users to submit, search, and validate facts in a decentralized way. Contributions are stored permanently using IPFS, semantically linked in a browsable knowledge graph, and made searchable with LLMs.
 
@@ -15,21 +15,21 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 
 ---
 
-## 🧩 Core Features
+## Core Features
 
-- 📤 **Submit Facts**  
+- **Submit Facts**  
   Add factual statements linked to topics and concepts.
 
-- 🌐 **Semantic Knowledge Graph**  
+- **Semantic Knowledge Graph**  
   Facts are semantically interlinked, forming a browsable and meaningful knowledge web.
 
-- 🔐 **Decentralized Storage**  
+- **Decentralized Storage**  
   Uses **IPFS** to ensure permanence and censorship resistance.
 
-- 🧠 **AI Semantic Search**  
+- **AI Semantic Search**  
   LLMs returns fact summaries and related concepts using natural language queries.
 
-- 🎯 **Reputation Staking**  
+- **Reputation Staking**  
   Contributors stake tokens when submitting/editing facts. Community feedback affects their reputation and token balance.
 
 - ⬆️⬇️ **Voting System**  
@@ -38,27 +38,27 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 - 🧑‍💻 **Contributor Dashboard**  
   View your submitted facts, staked tokens, votes, and reputation all in one place.
 
-- 📖 **Fact Viewer Page**  
+- **Fact Viewer Page**  
   Minimal, clean UI to read facts with references, links, and author info.
 
-- 🕸️ **Graph Explorer Interface**  
+- **Graph Explorer Interface**  
   Explore the entire fact graph visually—navigate between connected facts and concepts.
 
-- ✏️ **Edit Proposal System**  
+- ✏**Edit Proposal System**  
   Users can propose edits to facts. Community reviews and votes on changes.
 
-- 💬 **Comment Threads**  
+- **Comment Threads**  
   Discuss facts directly in context with other contributors.
 
-- 🏆 **Reputation Leaderboard**  
+- **Reputation Leaderboard**  
   Highlights top contributors and community-vetted knowledge builders.
 
-- 🎁 **Token Rewards**  
+- **Token Rewards**  
   High-reputation contributors can earn token incentives.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component      | Technology Used                              |
 |----------------|-----------------------------------------------|
@@ -70,7 +70,7 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 
 ---
 
-## 📍 Hackathon Roadmap (To-Do)
+## Hackathon Roadmap (To-Do)
 
 - ✅ Smart Contract: Submission, Voting, and Staking
 - ⛓️ IPFS 
@@ -81,17 +81,16 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 
 ---
 
-## 💡 Why FactChain?
+## Why FactChain?
 
 In a world overwhelmed with misinformation, **FactChain** provides a decentralized, trustable, and intelligent knowledge layer that puts power back in the hands of communities. It is more than a fact checker—it's a living, evolving web of verified human knowledge.
 
-> 🔍 Truth should be open-source, transparent, and community-governed. That's what we're building with FactChain.
+> Truth should be open-source, transparent, and community-governed. That's what we're building with FactChain.
 
 ---
 
-## 🧠 Made With
-
-❤️ by Team **Enroll-X** at **HackIndia Spark 6 – 2025**
+## Made With
+ by Team **Enroll-X** at **HackIndia Spark 6 – 2025**
 
 ## Team
 - Parth Pawar
