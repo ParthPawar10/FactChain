@@ -1,5 +1,5 @@
 # -HackIndia-Spark-6-2025-Enroll-X
-# 🔗 FactChain  
+# FactChain  
 **Decentralized Knowledge Graph with AI-Powered Semantic Search**  
 _HackIndia Spark 6 – 2025 | Team: Enroll-X
 
@@ -32,10 +32,10 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 - **Reputation Staking**  
   Contributors stake tokens when submitting/editing facts. Community feedback affects their reputation and token balance.
 
-- ⬆️⬇️ **Voting System**  
+- **Voting System**  
   Facts can be upvoted or downvoted by the community, directly influencing their credibility and contributor reputation.
 
-- 🧑‍💻 **Contributor Dashboard**  
+-  **Contributor Dashboard**  
   View your submitted facts, staked tokens, votes, and reputation all in one place.
 
 - **Fact Viewer Page**  
@@ -72,12 +72,12 @@ Whether you're submitting a new fact, exploring interconnected concepts, or stak
 
 ## Hackathon Roadmap (To-Do)
 
-- ✅ Smart Contract: Submission, Voting, and Staking
-- ⛓️ IPFS 
-- 🔄 AI Query Response with LLMs
-- 🎨 UI/UX Implementation
-- 🗳️ Reputation +  Voting Logic
-- 🧪 Testing + Demo Prep
+-  Smart Contract: Submission, Voting, and Staking
+-  IPFS 
+- AI Query Response with LLMs
+-  UI/UX Implementation
+- Reputation +  Voting Logic
+- Testing + Demo Prep
 
 ---
 
