@@ -1,4 +1,3 @@
-# -HackIndia-Spark-6-2025-Enroll-X
 # FactChain  
 **Decentralized Knowledge Graph with AI-Powered Semantic Search**  
 _HackIndia Spark 6 – 2025 | Team: Enroll-X
